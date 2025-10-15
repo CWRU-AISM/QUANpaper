@@ -1,5 +1,5 @@
 # Academic Project Page Template
-This is an academic paper project page template.
+This is the template for our 2025 IROS paper [Quaternion Approximate Networks](https://cwru-aism.github.io/QUANpaper/)
 
 
 Example project pages built using this template are:
